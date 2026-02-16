@@ -1,4 +1,4 @@
-#🏓 HTML5 & JavaScript Tennis Game
+🏓 HTML5 & JavaScript Tennis Game
 
 A modern remake of the classic Pong/tennis arcade game, built with HTML5 Canvas and JavaScript. This project demonstrates interactive gameplay, AI, multiplayer support, menu navigation, sound effects, and polished visuals — perfect for showcasing front-end game development skills.
 
